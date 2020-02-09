@@ -8,6 +8,8 @@ int main(void) {
   char c;
   FILE *fileHnd;
 
+// testing 
+
   char tmp[3];
   char out[5000];
   char *buff = "5452434531303031";
